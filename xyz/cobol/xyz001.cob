@@ -5,5 +5,5 @@
        WORKING-STORAGE SECTION.
       *COPY XYZ001.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO YOU!'.
+           DISPLAY 'HELLO Mundo!'.
            STOP RUN.
